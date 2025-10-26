@@ -7,7 +7,8 @@ Aplicação desenvolvido em **Go** com o framework **Wails**, que permite baixar
 ## 💿 Baixar o aplicativo
 
 📦 **Versão Portátil para Windows (v1.0):**  
-👉 [**Clique aqui para baixar**]([https://github.com/Matheusr77/youtube-downloader-go/releases/latest/download/YouTube-Downloader-Windows.zip](https://github.com/Matheusr77/YouTube-Download-GO/releases/download/v1.0.0/YouTube.Downloader.zip)
+👉 [**Clique aqui para baixar**](https://github.com/Matheusr77/YouTube-Download-GO/releases/download/v1.0.0/YouTube.Downloader.zip)
+
 
 > Basta extrair o arquivo `.zip` e executar `youtube-downloader-go.exe`.  
 > Nenhuma instalação necessária! 🚀
