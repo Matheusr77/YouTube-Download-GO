@@ -1,0 +1,14 @@
+{
+  "name": "youtube-downloader-go",
+  "frontend": {
+    "dir": "frontend"
+  },
+  "backend": {
+    "dir": "backend"
+  },
+  "output": {
+    "directory": "build/bin"
+  },
+  "wailsjsdir": "frontend",
+  "mode": "debug"
+}
