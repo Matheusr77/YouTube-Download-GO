@@ -50,7 +50,7 @@ Aplicação desenvolvido em **Go** com o framework **Wails**, que permite baixar
 ## 👨‍💻 Desenvolvido por
 
 **Matheus Ribeiro**  
-⭐ [Siga e dê uma estrela no repositório!](https://github.com/Matheusr77/youtube-downloader-go)
+⭐ [Siga e dê uma estrela no repositório!](https://github.com/Matheusr77/YouTube-Download-GO)
 
 ---
 
